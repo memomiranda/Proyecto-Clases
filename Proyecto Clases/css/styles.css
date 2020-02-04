@@ -11,6 +11,28 @@ body {
     line-height: 2;
 }
 
+/*--Botones inicio--*/
+
+.buttom{
+    
+    border: 0;
+    width: 100px;
+    padding: 10px;  
+    border-radius: 5px;
+}
+
+.buttom--primario{
+    background: rgb(168, 170, 168);
+
+}
+
+.buttom:hover{
+    cursor: pointer;
+    color: #71B100;
+    background: rgb(211, 187, 187);
+
+}
+
 /** Parametros globales **/
 img {
     max-width: 100%;
